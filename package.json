@@ -7,16 +7,8 @@
     "preview": "svelte-kit preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-vercel": "next",
-    "svelte-preprocess": "^4.7.3",
-    "@rollup/plugin-yaml": "^3.0.0",
     "@sveltejs/kit": "next",
     "svelte": "^3.34.0"
   },
-  "type": "module",
-  "dependencies": {
-    "@fontsource/fira-mono": "^4.2.2",
-    "@lukeed/uuid": "^2.0.0",
-    "cookie": "^0.4.1"
-  }
+  "type": "module"
 }
